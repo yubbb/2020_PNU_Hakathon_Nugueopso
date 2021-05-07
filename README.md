@@ -28,7 +28,7 @@ Deep Learning Model, Screen Capture EXE, and Final Results of Hackathon "Nugueop
 #
 영상 속 사람 수를 파악하기 위하여 keras 및 tensorflow를 이용하였고, VGG16 모델을 참조하여 자체 딥러닝 모델을 만들었습니다.
 
-또한 imageai의 ObjectDetection 모델도 사용하였습니다. 
+또한 imageai의 ObjectDetection 모델도 사용하였습니다.
 
 자체 개발 모델과 ObjectDetection 모델의 결과를 종합하여 최종 결과를 return하는 알고리즘을 개발하였고,
 
